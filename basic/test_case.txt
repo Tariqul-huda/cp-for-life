@@ -1,0 +1,4 @@
+1. Multiple Test cases:
+	a. The number of test cases is given in the first line of the input
+	b. The multiple test cases are terminated by special values (Usually zero(es)), regardless whether there are subsequent input
+	c. The multiple test cases are terminated by the EOF

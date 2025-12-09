@@ -1,0 +1,7 @@
+Multiple test case: 
+given test case:
+
+Uva- 10783 OddSum ->output case
+UVA 11172 -> 
+
+
